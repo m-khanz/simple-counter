@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="number_display_default">0</string>
+    <string name="incrementButtonText">Count!</string>
+    <string name="decrement_button">Tap here to go down.</string>
+    <string name="incrementText">Tap anywhere to go up.</string>
+    <string name="title_activity_set_step">SetStepActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="settings_setStep">Set Counter Step</string>
+    <string name="settings_setTitle">Counter Title</string>
+
+</resources>
